@@ -1,0 +1,34 @@
+#calc {
+  margin-left: 3em;
+  width: 10em;
+}
+
+#calc textarea {
+  resize: none;
+  width: 100%;
+  height: 2em;
+}
+
+#calc table {
+  width: 100%;
+  height: 10em;
+}
+
+#calc tr {
+  padding: 0;
+  width: 100%;
+  height: 25%;
+}
+
+#calc td {
+  padding: 0;
+  width: 25%;
+  height: 25%;
+}
+
+#calc td button {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
